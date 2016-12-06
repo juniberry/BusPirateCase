@@ -1,36 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 792 612" style="enable-background:new 0 0 792 612;" xml:space="preserve">
+	 viewBox="0 0 288 504" style="enable-background:new 0 0 288 504;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#000000;stroke-miterlimit:10;}
 	.st1{fill:none;}
 	.st2{font-family:'MyriadPro-Regular';}
 	.st3{font-size:12px;}
-	.st4{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#FF32D9;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 </style>
 <rect id="scalebox_2_" class="st0" width="288" height="504"/>
 <rect x="24.3" y="453.7" class="st1" width="241.3" height="47.3"/>
-<text transform="matrix(1 0 0 1 24.3335 462.1865)"><tspan x="0" y="0" class="st2 st3">Designed for Sparkfun DP BusPirate 3.9a.</tspan><tspan x="0" y="14.4" class="st2 st3">Outer box is 4x7 inches for scaling reference.</tspan><tspan x="0" y="28.8" class="st2 st3">1/8” Acrylic, M3 Hardware was used.</tspan></text>
+<text transform="matrix(1 0 0 1 24.3335 462.1865)"><tspan x="0" y="0" class="st2 st3">Designed for Sparkfun DP BusPirate 3.6.</tspan><tspan x="0" y="14.4" class="st2 st3">Outer box is 4x7 inches for scaling reference.</tspan><tspan x="0" y="28.8" class="st2 st3">1/8” Acrylic, M3 Hardware was used.</tspan></text>
+<g id="BusPirate">
+	
+		<rect x="330.4" y="-31.6" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 437.305 -330.4105)" class="st4" width="106.9" height="170.1"/>
+	<circle class="st4" cx="456.7" cy="94.7" r="5"/>
+	<circle class="st4" cx="456.7" cy="12.2" r="5"/>
+	<circle class="st4" cx="311" cy="12.2" r="5"/>
+	<circle class="st4" cx="311" cy="94.7" r="5"/>
+	
+		<rect x="292.1" y="39.4" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 376.7706 -269.8762)" class="st4" width="62.4" height="28"/>
+	
+		<rect x="447.5" y="40.1" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 511.9727 -405.0782)" class="st4" width="22.1" height="26.6"/>
+	<rect x="360.8" y="5.4" class="st4" width="46.1" height="12.8"/>
+</g>
 <g id="BottomPanel">
 	<path class="st0" d="M3.7,117.1V14.9c0-6.6,5.4-12,12-12h163.1c6.6,0,12,5.4,12,12v102.1c0,6.6-5.4,12-12,12H15.7
 		C9.1,129.1,3.7,123.7,3.7,117.1z"/>
 	
-		<rect x="93.7" y="3.4" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 121.1547 -73.8453)" class="st4" width="7.7" height="40.5"/>
-	<circle class="st4" cx="170.3" cy="107.2" r="5"/>
-	<circle class="st4" cx="170.3" cy="24.8" r="5"/>
-	<circle class="st4" cx="24.6" cy="24.8" r="5"/>
-	<circle class="st4" cx="24.6" cy="107.2" r="5"/>
+		<rect x="93.7" y="3.4" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 121.1547 -73.8453)" class="st5" width="7.7" height="40.5"/>
+	<circle class="st5" cx="170.3" cy="107.2" r="5"/>
+	<circle class="st5" cx="170.3" cy="24.8" r="5"/>
+	<circle class="st5" cx="24.6" cy="24.8" r="5"/>
+	<circle class="st5" cx="24.6" cy="107.2" r="5"/>
 </g>
 <g id="TopPlate">
 	<path class="st0" d="M4.6,435.5V333.3c0-6.6,5.4-12,12-12h163.1c6.6,0,12,5.4,12,12v102.1c0,6.6-5.4,12-12,12H16.6
 		C10,447.5,4.6,442.1,4.6,435.5z"/>
 	
 		<rect x="91.9" y="319.7" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 441.021 244.493)" class="st0" width="12.8" height="46.1"/>
-	<circle class="st4" cx="171.1" cy="425.6" r="5"/>
-	<circle class="st4" cx="171.1" cy="343.2" r="5"/>
-	<circle class="st4" cx="25.4" cy="343.2" r="5"/>
-	<circle class="st4" cx="25.4" cy="425.6" r="5"/>
+	<circle class="st5" cx="171.1" cy="425.6" r="5"/>
+	<circle class="st5" cx="171.1" cy="343.2" r="5"/>
+	<circle class="st5" cx="25.4" cy="343.2" r="5"/>
+	<circle class="st5" cx="25.4" cy="425.6" r="5"/>
 	
 		<rect x="6.5" y="370.4" transform="matrix(-1.836970e-16 1 -1 -1.836970e-16 422.1339 346.6745)" class="st0" width="62.4" height="28"/>
 </g>
